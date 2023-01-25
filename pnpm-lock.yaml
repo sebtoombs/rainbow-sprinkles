@@ -87,12 +87,12 @@ importers:
 
   packages/rainbow-sprinkles:
     specifiers:
-      '@types/jest': 29.0.0
+      '@types/jest': 29.4.0
       '@vanilla-extract/css': 1.9.1
       '@vanilla-extract/dynamic': 2.0.2
       jest: 28.1.3
     devDependencies:
-      '@types/jest': 29.0.0
+      '@types/jest': 29.4.0
       '@vanilla-extract/css': 1.9.1
       '@vanilla-extract/dynamic': 2.0.2
       jest: 28.1.3
@@ -2254,8 +2254,8 @@ packages:
       pretty-format: 28.1.3
     dev: false
 
-  /@types/jest/29.0.0:
-    resolution: {integrity: sha512-X6Zjz3WO4cT39Gkl0lZ2baFRaEMqJl5NC1OjElkwtNzAlbkr2K/WJXkBkH5VP0zx4Hgsd2TZYdOEfvp2Dxia+Q==}
+  /@types/jest/29.4.0:
+    resolution: {integrity: sha512-VaywcGQ9tPorCX/Jkkni7RWGFfI11whqzs8dvxF41P17Z+z872thvEvlIbznjPJ02kl1HMX3LmLOonsj2n7HeQ==}
     dependencies:
       expect: 29.0.1
       pretty-format: 29.0.1
